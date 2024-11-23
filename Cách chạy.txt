@@ -1,0 +1,9 @@
+mật khẩu admin 123456  ;
+ + Sửa lại giao diện , đường dẫn ;
+ + Sử dụng các lệnh để tạo controller , migration: giống như ánh xạ lại cơ sở dữ liệu
+ + Inport cho đúng các thư viện 
+ + Sử dụng composer để tải thư viện ở ngoài
+ + Import mấy cái gói model
+ + Gán luôn cái Controler khi chạy router bên web.php đẻe có chi sửa phát luôn
+ + Giao diện chính như vẫn thiếu mấy gói cần thiết   
+ + Có thể sai ở Phần Target class
